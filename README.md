@@ -62,7 +62,7 @@ Auditing: The high termination rate in Auditing may be due to factors like high 
 
 Engineering: The significant male dominance in Engineering may require targeted efforts to attract and retain female talent in this field.
 
-Recommendations:
+RECOMMENDATIONS
 
 Age Diversity: Implement strategies to attract and retain employees from a wider range of age groups. This could include initiatives like flexible work arrangements for older employees and mentoring programs for younger employees.
 
