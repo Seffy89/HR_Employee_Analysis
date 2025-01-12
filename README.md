@@ -21,10 +21,11 @@ QUESTIONS
 9. What is the distribution of employees across locations by state?
 10. How has the company's employee count changed over time based on hire and term dates?
 11. What is the tenure distribution for each department?
-
-    SUMMARY
     
-Overall Insights
+
+                SUMMARY
+    
+  Overall Insights
 
 The largest age group in the company is 25-34.
 
@@ -49,7 +50,7 @@ The Marketing departmet has the highest turnover rate followed by Training depar
 A Large number of employees are from the state of Ohio.
 
 
-Conclusions
+            CONCLUSIONS
 
 Age Diversity: The company has a relatively young workforce, with a significant concentration in the 25-34 age group. This suggests a need to plan for future talent needs and succession planning, as the current workforce may age over time.
 
